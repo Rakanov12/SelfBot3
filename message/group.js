@@ -143,7 +143,7 @@ module.exports = async(client, anu) => {
               
               buff = await getBuffer(`http://hadi-api.herokuapp.com/api/card/goodbye?nama=${pushname}&descriminator=${groupMembers.length}&memcount=${allmem}&gcname=${encodeURI(groupName)}&pp=${pp_user}&bg=https://i.postimg.cc/tCTkRNpf/anime-anime-girls-digital-art-artwork-neko-ears-hd-wallpaper-preview.jpg`)
               teks = `Asik beban grup keluar \nKena mental dia :v`
-              buttons = [{ buttonId: `y`, buttonText: { displayText: "Nitip gorengan" }, type: 1 }
+              buttons = [{ buttonId: `y`, buttonText: { displayText: "byee kawand" }, type: 1 }
               ];        
               sendButImage2(from, outro, copyright, buff, buttons)
               }
