@@ -16,7 +16,7 @@ const { addBanned, unBanned, cekBannedUser } = require("./lib/banned");
 Anticall = settings.Anticall
 joinExtream = settings.joinGcExtream
 const baterai = {
-battery: "" || "Tydak Terdeteksi",
+battery: "" || "Tydak ٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜTerdeteksi ٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜ҈͜͡ ׇࣱྲྀ",
 isCharge: "Sedang di cas" || "Tidak di cas"
 }
 
