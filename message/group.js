@@ -107,10 +107,6 @@ module.exports = async(client, anu) => {
 						 "buttonId": `y`,
 						 "buttonText": {
 						 "displayText": `Oke siap`},
-						 "type": "RESPONSE"},{
-						 "buttonId": `${prefix}bullyuk`,
-						 "buttonText": {
-						 "displayText": `Bully yuk`},
 						 "type": "RESPONSE"
 						 }]
             
@@ -129,9 +125,7 @@ module.exports = async(client, anu) => {
              buff = await getBuffer(`http://hadi-api.herokuapp.com/api/card/welcome?nama=${pushname}&descriminator=${groupMembers.length}&memcount=${allmem}&gcname=${encodeURI(groupName)}&pp=${pp_user}&bg=https://i.postimg.cc/tCTkRNpf/anime-anime-girls-digital-art-artwork-neko-ears-hd-wallpaper-preview.jpg`)
              teks =  `Selamat datang di grup\nMoga betah ya kak `        
              buttons = [
-             { buttonId: `y`, buttonText: { displayText: "Oke siap" }, type: 1 },
-             { buttonId: `${prefix}bullyuk ${memNumber}`, buttonText: { displayText: "wokeee" }, type: 1 } 
-             ];         
+             { buttonId: `y`, buttonText: { displayText: "Oke siap" }, type: 1 }                    
              sendButImage2(from, intro, copyright, buff, buttons)
              }
                               
