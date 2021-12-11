@@ -13,6 +13,12 @@
 <a href="https://github.com/takimtod/SelfBot3/network/members"><img title="Forks" src="https://img.shields.io/github/forks/takimtod/SelfBot3?color=red&style=flat-square"></a>
 <a href="https://github.com/takimtod/SelfBot3/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/takimtod/SelfBot3?label=Watchers&color=blue&style=flat-square"></a>
 
+--------
+
+![My card name](https://cardivo.vercel.app/api?name=takimtod&description=DOOOR,%20WELCOME%20TO%20di%20github%20takimtod%20&image=https://telegra.ph/file/38121729060e6d62f9942.jpg?v=4&backgroundColor=%23ecf0f1&instagram=zyee_ez&github=takimtod&pattern=leaf&colorPattern=%23eaeaea)
+
+ ---------
+
 ## NOTICE
 
 `
