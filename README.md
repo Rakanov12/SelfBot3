@@ -1,44 +1,69 @@
-<div align="center">
-<img src="https://i.pinimg.com/736x/d5/93/d9/d593d9b5d4908a2c89b5a8a71eefbe4c.jpg" alt="YOGI" width="170" />
-
-## SELF-BOTZ
-## yah gua ga punya api
-</div>
-
 <p align="center">
-  <a href="https://github.com/yogipw"><img title="Author" src="https://img.shields.io/badge/Author-yogipw-red.svg?style=for-the-badge&logo=github" /></a>
+<img src="https://telegra.ph/file/38121729060e6d62f9942.jpg/revision/latest/top-crop/width/300/height/300?cb=20190417164406" width="128" height="128"/>
 </p>
 <p align="center">
-<a href="#"><img title="mengapi" src="https://img.shields.io/static/v1?label=FREE&message=SELF_BOT&color=red"></a>
+<a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/SelfBot2-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
+<p align="center">
+<a href="https://github.com/takimtod"><img title="Author" src="https://img.shields.io/badge/Author-T A K I M-red.svg?style=for-the-badge&logo=github"></a>
+</p>
+<p align="center">
+<a href="https://github.com/takimtod/followers"><img title="Followers" src="https://img.shields.io/github/followers/takimtod?color=blue&style=flat-square"></a>
+<a href="https://github.com/takimtod/SelfBot3/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/takimtod/SelfBot3?color=red&style=flat-square"></a>
+<a href="https://github.com/takimtod/SelfBot3/network/members"><img title="Forks" src="https://img.shields.io/github/forks/takimtod/SelfBot3?color=red&style=flat-square"></a>
+<a href="https://github.com/takimtod/SelfBot3/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/takimtod/SelfBot3?label=Watchers&color=blue&style=flat-square"></a>
 
-# Requirements
-* [Node.js](https://nodejs.org/en/)
-* [Git](https://git-scm.com/downloads)
-* [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
-* [Libwebp](https://developers.google.com/speed/webp/download)
-* Any text editor
+## NOTICE
 
+`
+Hallo cuy, Buat ganti owner Klik dibawah
+Dan kalo mau Deploy Heroku, Add buildpack dulu
+Heroku tidak menjamin 24 Jam ya Cuy!
+`
 
-## For Termux
+## SETTING OWNER
+
+[`Click Disini`](https://github.com/takimtod/SelfBot3/blob/master/settings.json)
+
+## BUILDPACK HEROKU
+
+`
+Salin aja Ni
+https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+`
+
+## DEPLOY HEROKU
+
+[![Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2takimtod%2SelfBot3)
+
+## INSTALL VIA GIT
+
+```bash
+> git clone https://github.com/takimtod/SelfBot23
+> cd SelfBot3
+> npm start
 ```
-> termux-setup-storage
-> apt update && apt upgrade
+
+## INSTALL VIA TERMUX :
+
+```bash
+> pkg upgrade && pkg update
 > pkg install nodejs
-> pkg install git 
-> pkg install libwebp 
 > pkg install bash
+> pkg install git
+> pkg install imagemagick
 > pkg install ffmpeg
-> cd /sdcard && cd SelfBot && npm start
+> pkg install libwebp
+> termux-setup-storage
+> cd /sdcard
+> cd SelfBot3
+> npm start
 ```
 
+## SPECIAL THANKS TO
+* <a href="https://github.com/adiwajshing/Baileys"><img alt="GitHub" src="https://img.shields.io/badge/adiwajshing/Baileys%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+* <a href="https://github.com/officialdittaz"><img alt="GitHub" src="https://img.shields.io/badge/officialdittaz%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+* <a href="https://github.com/takimtod"><img alt="GitHub" src="https://img.shields.io/badge/takimtod%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 
-## Connect With Me
-<p align="center">
- <a href="https://instagram.com/yogipw"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black"/></a><a href="https://wa.me/+62853535697153"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
-</p>
-
-# Thanks To
-* [`Baileys`](https://github.com/adiwajshing/Baileys)
-* [`Hexagonz`](https://github.com/hexagonz)
-
+## CONTACT WHATSAPP
+* <a href="https://wa.me/6282194424412"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
