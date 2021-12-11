@@ -3,7 +3,7 @@ exports.menu = (listcmdblock, explain, kyun, process, timeWit, timeWita, timeWib
 return`*${fake}*
 ${week}, ${calender} 
 
- ╭════⟨⟨ 𝗨𝗦𝗘𝗥 𝗜𝗡𝗙𝗢 ⟩⟩
+ ╭════⟨⟨ 𝗨𝗦𝗘𝗥 𝗜𝗡𝗙𝗢 ⟩⟩ ⌯
  ┋▢ Nama : ${pushname}
  ┋▢ Status : ${isPremium ? 'Premium':'Free'}
  ┋▢ Limit : ${isPremium ? 'Unlimited' : `${getLimit(sender, limitCount, limit)}/${limitCount}`}
