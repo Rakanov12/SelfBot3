@@ -108,10 +108,8 @@ module.exports = async(client, anu) => {
 						 "buttonText": {
 						 "displayText": `Oke siap`},
 						 "type": "RESPONSE"},{
-						 "buttonId": `${prefix}bullyuk`,
 						 "buttonText": {
-						 "displayText": `Bully yuk`},
-						 "type": "RESPONSE"
+					         "type": "RESPONSE"
 						 }]
             
     
@@ -130,7 +128,6 @@ module.exports = async(client, anu) => {
              teks =  `Selamat datang di grup\nMoga betah ya kak `        
              buttons = [
              { buttonId: `y`, buttonText: { displayText: "Oke siap om" }, type: 1 },
-             { buttonId: `${prefix}bullyuk ${memNumber}`, buttonText: { displayText: "Y" }, type: 1 } 
              ];         
              sendButImage2(from, intro, copyright, buff, buttons)
              }
