@@ -4,7 +4,7 @@ return`
 
 🤖 Nama Bot: ${fake}
 👤 Owner : Takim tamvan
-☎️ Nomor Owner : ${nomerOwner}
+☎️ Nomor Owner : @${nomerOwner}
 📍 Gender : ${gender}
 🌱 Umur : 17 Tahun
 🔥 Hoby : Recode SC
