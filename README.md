@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://telegra.ph/file/38121729060e6d62f9942.jpg/revision/latest/top-crop/width/300/height/300?cb=20190417164406" width="128" height="128"/>
+<img src="https://telegra.ph/file/c25a24e9dcdc935c42c8b.jpg/revision/latest/top-crop/width/300/height/300?cb=20190417164406" width="128" height="128"/>
 </p>
 <p align="center">
 <a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/SelfBot3-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
@@ -15,7 +15,7 @@
 
 --------
 
-![My card name](https://cardivo.vercel.app/api?name=takimtod&description=DOOOR,%20WELCOME%20TO%20di%20github%20takimtod%20&image=https://telegra.ph/file/38121729060e6d62f9942.jpg?v=4&backgroundColor=%23ecf0f1&instagram=zyee_ez&github=takimtod&pattern=leaf&colorPattern=%23eaeaea)
+![My card name](https://cardivo.vercel.app/api?name=takimtod&description=DOOOR,%20WELCOME%20TO%20di%20github%20takimtod%20&image=https://telegra.ph/file/c25a24e9dcdc935c42c8b.jpg?v=4&backgroundColor=%23ecf0f1&instagram=zyee_ez&github=takimtod&pattern=leaf&colorPattern=%23eaeaea)
 
  ---------
 
