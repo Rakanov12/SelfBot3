@@ -187,7 +187,7 @@ ${week}, ${calender}
 ⦁ ${prefix}nightcore     ${explain ? "reply audio":""} 
 ⦁ ${prefix}ghost    ${explain ? "reply audio":""} 
 ⦁ ${prefix}volume    ${explain ? "reply audio":""} 
-**⦁─────────────────⦁**
+*⦁─────────────────⦁*
 
 ❏    『 𝗦𝗧𝗢𝗥𝗔𝗚𝗘 』
 ⦁ ${prefix}addmusik      ${explain ? "reply audio":""} 
