@@ -23,7 +23,7 @@ isCharge: "Sedang di cas" || "Tidak di cas"
 
 async function starts() {
 	    client.autoReconnect = ReconnectMode.onConnectionLost
-	    client.version = [2, 2147, 14]
+	    client.version = [2, 2143, 3]
 	    client.browserDescription = ["T A K I M","Ubuntu","18.04"]
 	    client.logger.level = 'warn'
 	    console.log(color(`]─`,`magenta`),`「`,  color(`VIPER BOT`,`red`), `」`,  color(`─[`,`magenta`))
