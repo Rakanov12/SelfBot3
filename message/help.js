@@ -26,7 +26,7 @@ ${week}, ${calender}
  ▢ Cmd Blocked : ${JSON.parse(fs.readFileSync('./database/blockcmd.json')).length} 
  
 ⦁────┤𝗚𝗥𝗢𝗨𝗣├────⦁
- ▢ *YNTKTS*
+ ▢ *KATA-KATA MUTIARA*
       • https://bit.ly/3Fe5AXQ
  ▢ *REVOLUTION*
       • https://bit.ly/3Fb9xMV
