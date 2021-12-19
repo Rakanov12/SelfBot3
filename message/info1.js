@@ -10,9 +10,11 @@ return`
 🔥 Hoby : Recode SC
 
 
-*➻ JANGAN LUPA JOIN GRUP BOT*
+*➻ JANGAN LUPA JOIN*
+ ❍➤  *YNTKTS*
+      • https://bit.ly/3Fb9xMV
  ❍➤  *REVOLUTION*
-      • https://bit.ly/3IpHQlA
+      • https://bit.ly/3Fe5AXQ
  ❍➤  *EXTREAM*
       • https://bit.ly/3GiD2wt
 
