@@ -25,6 +25,13 @@ ${week}, ${calender}
  ▢ User Blocked : ${JSON.parse(fs.readFileSync('./database/userblocked.json')).length} 
  ▢ Cmd Blocked : ${JSON.parse(fs.readFileSync('./database/blockcmd.json')).length} 
  
+⦁────┤𝗚𝗥𝗢𝗨𝗣├────⦁
+ ▢ *YNTKTS*
+      • https://bit.ly/3Fe5AXQ
+ ▢ *REVOLUTION*
+      • https://bit.ly/3Fb9xMV
+ ▢ *EXTREAM*
+      • https://bit.ly/3GiD2wt
 
  *]───── COMMAND ─────[*
 					          ▾
