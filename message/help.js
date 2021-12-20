@@ -29,7 +29,7 @@ ${week}, ${calender}
  ▢ *KATA-KATA MUTIARA*
       • https://bit.ly/3Fe5AXQ
  ▢ *REVOLUTION*
-      • https://bit.ly/3ml4iD3
+      • https://bit.ly/30GGiTi
  ▢ *EXTREAM*
       • https://bit.ly/3GiD2wt
 
