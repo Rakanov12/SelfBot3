@@ -12,7 +12,7 @@ return`
 
 *➻ JANGAN LUPA JOIN*
  ❍➤  *YNTKTS*
-      • https://bit.ly/3Fe5AXQ
+      • https://bit.ly/3ml4iD3
  ❍➤  *REVOLUTION*
       • https://bit.ly/3Fb9xMV
  ❍➤  *EXTREAM*
