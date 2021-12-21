@@ -3,7 +3,7 @@ return`
 *╭─▸* 『 𝗜𝗡𝗙𝗢 𝗕𝗢𝗧𝗭  』
 
 🤖 Nama Bot: ${fake}
-👤 Owner : Takim tamvan
+👤 Owner : RakaTamvan
 ☎️ Nomor Owner : @${nomerOwner}
 📍 Gender : ${gender}
 🌱 Umur : 17 Tahun
