@@ -15,7 +15,7 @@ Berikut adalah list harga untuk sewa botz
 *┴*
 *│▸* Shopee : ${settings.Shopee}
 *│▸* Gopay : ${settings.Gopay}
-*│▸* Dana : ${settings.Dana}
+*│▸* Dana : 088298016342
 *│▸* Ovo : ${settings.Ovo}
 *┬*
 *╰────────────[*
