@@ -438,10 +438,10 @@ ${week}, ${calender}
 *⦁─────────────────⦁*
 
 ❏    『 𝗧𝗛𝗔𝗡𝗞𝗦 𝗧𝗢 
- 👤 Dittaz
- 👤 Takim
+ 👤 RakaNovan [ Devloper ]
+ 👤 UciChann [ Doi Raka 🗿👍
  👤 Nina Kawai
- 👤 Resta Gamteng :v
+ 👤 Sanzyy YT [ Temen w ]
  👤 Zeeone Ofc
  👤 Yudha Perdana
  👤 Yogi PW
