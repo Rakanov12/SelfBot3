@@ -260,8 +260,8 @@ return`
 
 
 𝗧𝗛𝗔𝗡𝗞𝗦 𝗧𝗢 : 
- ▢  : Dittaz
- ▢  : Nina kawai
+ ▢  : RakaNovan [ Devloper ]
+ ▢  : UciChann [ Doi Raka🗿👍 ]
  ▢  : Pemuda Teknologi
  ▢  : Zeeone ofc
  ▢  : Yudha Perdana
