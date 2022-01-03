@@ -260,10 +260,10 @@ return`
 
 
 𝗧𝗛𝗔𝗡𝗞𝗦 𝗧𝗢 : 
- ▢  : RakaNovan [ Devloper ]
- ▢  : UciChann [ Doi Raka🗿👍 ]
+ ▢  : KyraAmeliaa
+ ▢  : Youriko
  ▢  : Pemuda Teknologi
- ▢  : Zeeone ofc
+ ▢  : DITTAZ
  ▢  : Yudha Perdana
  ▢  : Yogi PW
  ▢  : Decode Denpa
