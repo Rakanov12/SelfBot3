@@ -1,11 +1,11 @@
-exports.teksbanned =["Kaka telah di banned","Maaf kamu sudah di banned","Yahaha udah kena banned mau akses fitur","Mboh karepmu"]
+exports.teksbanned =["Kamu Telah DiBanned Karena Melanggar Peraturan","Maaf kamu sudah di banned","Yahaha udah kena banned mau akses fitur","Mboh karepmu"]
 
 exports.tekscmd =["Command tidak ditemukan","Maaf kak command tidak di temukan","Gak ada","Command tidak tersedia"]
 
 
 
 
-exports.teksspam =["🐦"]
+exports.teksspam =["Jangan Spam Bang,,Amel Ngelag:)"]
 
 
 
