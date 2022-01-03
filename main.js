@@ -26,7 +26,7 @@ async function starts() {
 	    client.version = [2, 2143, 3]
 	    client.browserDescription = ["A M E L","Ubuntu","18.04"]
 	    client.logger.level = 'warn'
-	    console.log(color(`]─`,`magenta`),`「`,  color(`AMEL BOT`,`red`), `」`,  color(`─[`,`magenta`))
+	    console.log(color(`]─`,`magenta`),`「`,  color(`VIPER BOT`,`red`), `」`,  color(`─[`,`magenta`))
 	    client.on('qr', () => {
 	    console.log(color('[','white'), color('!','red'), color(']','white'), color(' Scan Bwang'))
 	    })
@@ -35,7 +35,7 @@ async function starts() {
 	    start(`1`,`Connecting...`)
 	    })
 	    client.on('open', () => {
-	    success(`1`,`[■■■■■■■■■■■■■■■] Udah Connect Kak Amel Sayang 🌜 :V`) 
+	    success(`1`,`[■■■■■■■■■■■■■■■] connect SWOSKWOKSOSKSO :V`) 
 	    }) 
 	    client.on('ws-close', () => {
         console.log(color("[SYSTEM]", "white"), color('Connection lost, trying to reconnect', 'deeppink'))
