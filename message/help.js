@@ -26,10 +26,10 @@ ${week}, ${calender}
  ▢ Cmd Blocked : ${JSON.parse(fs.readFileSync('./database/blockcmd.json')).length} 
  
 ⦁────┤𝗚𝗥𝗢𝗨𝗣├────⦁
- ▢ *KATA-KATA MUTIARA*
-      • https://bit.ly/3Fe5AXQ
- ▢ *REVOLUTION*
-      • https://bit.ly/30GGiTi
+ ▢ *BOT WHATSAPP*
+      • https://chat.whatsapp.com/GTIomoBv3qD8cK1VB84rs2
+ ▢ *BOT WHATSAPP*
+      • https://chat.whatsapp.com/GTIomoBv3qD8cK1VB84rs2
  ▢ *EXTREAM*
       • https://bit.ly/3GiD2wt
 
@@ -428,20 +428,20 @@ ${week}, ${calender}
 *⦁─────────────────⦁*
 
 ❏    『 𝗠𝗢𝗗𝗘 𝗪𝗔𝗥  』
-⦁ ${prefix}bugv1 
-⦁ ${prefix}bugv2 
-⦁ ${prefix}bugv3 
-⦁ ${prefix}bugv4 
-⦁ ${prefix}bugv5     
-⦁ ${prefix}bugvn    
+⦁ ${prefix}bugv1 [OwnerOnly]
+⦁ ${prefix}bugv2 [OwnerOnly]
+⦁ ${prefix}bugv3 [OwnerOnly]
+⦁ ${prefix}bugv4 [OwnerOnly]
+⦁ ${prefix}bugv5 [OwnerOnly]
+⦁ ${prefix}bugvn [OwnerOnly]
 ⦁ ${prefix}amaterasu 
 *⦁─────────────────⦁*
 
 ❏    『 𝗧𝗛𝗔𝗡𝗞𝗦 𝗧𝗢 
- 👤 RakaNovan [ Devloper ]
- 👤 UciChann [ Doi Raka 🗿👍
+ 👤 KyraAmeliaa
+ 👤 Youriko
  👤 Nina Kawai
- 👤 Sanzyy YT [ Temen w ]
+ 👤 DITTAZ
  👤 Zeeone Ofc
  👤 Yudha Perdana
  👤 Yogi PW
