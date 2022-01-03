@@ -3,10 +3,10 @@ return`
 *╭─▸* 『 𝗜𝗡𝗙𝗢 𝗕𝗢𝗧𝗭  』
 
 🤖 Nama Bot: ${fake}
-👤 Owner : RakaTamvan
+👤 Owner : KyraAmeliaa
 ☎️ Nomor Owner : @${nomerOwner}
-📍 Gender : ${gender}
-🌱 Umur : 17 Tahun
+📍 Gender : Perempuan
+🌱 Umur : 15 Tahun
 🔥 Hoby : Recode SC
 
 
@@ -19,6 +19,7 @@ return`
       • https://bit.ly/3GiD2wt
 
 *➻* SCRIPT BY*
+        KyraAmeliaa
         Decode Denpa
         X-Dev Team
         Yogi PW
