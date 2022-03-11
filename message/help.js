@@ -438,10 +438,10 @@ ${week}, ${calender}
 *⦁─────────────────⦁*
 
 ❏    『 𝗧𝗛𝗔𝗡𝗞𝗦 𝗧𝗢 
- 👤 KyraAmeliaa
+ 👤 Noizydev
  👤 Youriko
  👤 Nina Kawai
- 👤 DITTAZ
+ 👤 Rakanovan
  👤 Zeeone Ofc
  👤 Yudha Perdana
  👤 Yogi PW
