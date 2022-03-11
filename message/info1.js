@@ -3,9 +3,9 @@ return`
 *╭─▸* 『 𝗜𝗡𝗙𝗢 𝗕𝗢𝗧𝗭  』
 
 🤖 Nama Bot: ${fake}
-👤 Owner : KyraAmeliaa
+👤 Owner : Noizydev
 ☎️ Nomor Owner : @${nomerOwner}
-📍 Gender : Perempuan
+📍 Gender : Laki laki
 🌱 Umur : 15 Tahun
 🔥 Hoby : Recode SC
 
@@ -19,12 +19,12 @@ return`
       • https://bit.ly/3GiD2wt
 
 *➻* SCRIPT BY*
-        KyraAmeliaa
+        Noizydev
         Decode Denpa
         X-Dev Team
         Yogi PW
         Hexagon
-        Dttaz
+        Rakanovan
 
 *╰────────────*`
 }
