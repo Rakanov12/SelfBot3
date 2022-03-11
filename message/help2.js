@@ -260,10 +260,10 @@ return`
 
 
 𝗧𝗛𝗔𝗡𝗞𝗦 𝗧𝗢 : 
- ▢  : KyraAmeliaa
+ ▢  : Noizydev
  ▢  : Youriko
  ▢  : Pemuda Teknologi
- ▢  : DITTAZ
+ ▢  : Rakanovan
  ▢  : Yudha Perdana
  ▢  : Yogi PW
  ▢  : Decode Denpa
