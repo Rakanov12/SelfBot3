@@ -1,7 +1,7 @@
 exports.dodo = (prefix) => {
 return`
 ╔════════════════════
-║ *DONASI UNTUK AmelBott*
+║ *DONASI UNTUK BLUE-BOT*
 ╠════════════════════
 ║╭──❉ *DONASI KAK* ❉─────
 ║│➸ *DANA*: 088298016342
@@ -14,6 +14,6 @@ return`
 ║  ▌│█║▌║▌║║▌║▌║█│▌
 ║        
 ╠════════════════════
-║ _*POWERED BY AmellBot*_
+║ _*©POWERED BY Noizydev*_
 ╚═══════════════════`
 }
