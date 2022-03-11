@@ -5,7 +5,7 @@ exports.tekscmd =["Command tidak ditemukan","Maaf kak command tidak di temukan",
 
 
 
-exports.teksspam =["Jangan Spam Bang,,Amel Ngelag:)"]
+exports.teksspam =["Jangan Spam Bang,,Samya Ngemlag"]
 
 
 
